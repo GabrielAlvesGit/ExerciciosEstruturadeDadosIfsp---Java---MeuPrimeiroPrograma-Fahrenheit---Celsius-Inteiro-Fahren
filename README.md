@@ -22,6 +22,6 @@ Exercícios para a fixação do conteudo passado em sala de aula em cima da ling
 
 
 <h5>1)Crie um programa simples em Java que imprima uma linha simples.  A mensagem a ser exibida deve ser: Estou vivo!!!<h5>
-div align="center"
-img src="https://www.google.com/search?q=ecommerce&rlz=1C1FCXM_pt-PTBR955BR955&tbm=isch&sxsrf=APwXEddZ8pfiXOtLFf-QB4wwHb3aS_F3Eg:1680488083227&source=lnms&sa=X&ved=2ahUKEwjx1__50Yz-AhVujZUCHdaaBnAQ_AUoAnoECAEQBA&biw=1366&bih=625&dpr=1#imgrc=j03uYhbjZugQJM" width="0px" /
-/div
+<p align="center">
+<width="400px"  height="300" src="src/WhatsApp Image 2023-04-02 at 23.24.33.jpeg">
+</p>
